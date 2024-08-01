@@ -97,6 +97,6 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Contact
 
-For any inquiries or issues, please contact [your.email@example.com](mailto:your.email@example.com).
+For any inquiries or issues, please contact [mail.vyshnave@gmail.com](mailto:your.email@example.com).
 
 ---
